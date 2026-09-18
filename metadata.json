@@ -1,0 +1,6 @@
+{
+  "name": "Bulking Fitness",
+  "description": "Futuristic 3D bulking and muscle growth fitness coach with personalized meal plans, calorie tracking, hypertrophy workout routines, and recovery optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
